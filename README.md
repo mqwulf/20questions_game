@@ -1,8 +1,5 @@
 <h1 align="center">:crystal_ball: 20 Questions Game :crystal_ball:</h1>
 
-
-<h2 align="center">Summary</h2>
-
 <p align="center">This Python project implements a classic 20 questions game using a Binary Tree structure, allowing the program to learn and improve through user interaction. It features a user-friendly GUI built with Tkinter, offering an engaging and intuitive experience. The game can adapt by "learning" from users' answers, making it increasingly accurate over time. Have not completed yet, few bugs here and there. </p>
 
 <p align="center"><img src="imgs/module.png" width="70%"></p>
