@@ -1,4 +1,4 @@
-# :crystal_ball: 20 Questions Game :crystal_ball:
+<h1 align="center">:crystal_ball: 20 Questions Game :crystal_ball:</h1>
 
 
 <h2 align="center">Summary</h2>
